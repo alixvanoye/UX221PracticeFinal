@@ -38,3 +38,9 @@
 
 2025-04-06T02:35:31-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221PracticeFinal/.wordpress/wp-includes/widgets/class-wp-widget-block.php on line 208
 
+2025-04-06T02:36:32-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221PracticeFinal/.wordpress/wp-includes/widgets/class-wp-widget-block.php on line 208
+
+2025-04-06T02:37:16-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221PracticeFinal/.wordpress/wp-includes/widgets/class-wp-widget-block.php on line 208
+
+2025-04-06T02:45:24-04:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221PracticeFinal/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/activation.php on line 146
+
